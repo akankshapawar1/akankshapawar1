@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Akanksha Pawar
 
-<!--
-**akankshapawar1/akankshapawar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full-Stack Developer** with a passion for building scalable web applications, intuitive interfaces, and intelligent systems. I thrive in fast-paced environments—especially startups—where impact and innovation go hand-in-hand.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+- 🔭 Currently working at **ProsperOn** (Fintech) as a Fullstack Developer, improving financial literacy through student-focused dashboards and scalable APIs.
+- 💡 Previously at **SolBid** and **Ithaca Clean Energy**, building secure and interactive tools for solar and offshore wind industries.
+- 🌐 Developed dozens of frontend interfaces and backend APIs using React, TypeScript, Node.js, NestJS, and AWS services.
+- 🛡️ Experienced with secure authentication workflows including **OAuth 2.0**, **AWS Cognito**, and **MFA**.
+
+---
+
+## 🧠 Technical Skills
+
+**Languages:** TypeScript, JavaScript, Python, Java, Bash  
+**Frameworks & Libraries:** React, NestJS, Express, Redux, Material UI  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Cloud & DevOps:** AWS (EC2, Lambda, S3, RDS, Cognito), Docker, Git  
+**Tools:** Postman, Swagger, Figma, Jest
