@@ -1,19 +1,19 @@
 # Hi, I'm Akanksha
 
-I’m a **Full-Stack Developer** with a passion for building scalable web applications, intuitive interfaces, and intelligent systems. I thrive in fast-paced environments—especially startups—where impact and innovation go hand-in-hand.
+I’m a **Full-Stack Developer** with a passion for building scalable web applications, intuitive interfaces, and intelligent systems. I thrive in fast-paced environments.
 
 ---
 
-## 💼 About Me
+## About Me
 
-- 🔭 Currently working at **ProsperOn** (Fintech) as a Fullstack Developer, improving financial literacy through student-focused dashboards and scalable APIs.
-- 💡 Previously at **SolBid** and **Ithaca Clean Energy**, building secure and interactive tools for solar and offshore wind industries.
-- 🌐 Developed dozens of frontend interfaces and backend APIs using React, TypeScript, Node.js, NestJS, and AWS services.
-- 🛡️ Experienced with secure authentication workflows including **OAuth 2.0**, **AWS Cognito**, and **MFA**.
+- Currently working at **ProsperOn** (Fintech) as a Fullstack Developer, improving financial literacy through student-focused dashboards and scalable APIs.
+- Previously at **SolBid** and **Ithaca Clean Energy**, building secure and interactive tools for solar and offshore wind industries.
+- Developed dozens of frontend interfaces and backend APIs using React, TypeScript, Node.js, NestJS, and AWS services.
+- Experienced with secure authentication workflows including **OAuth 2.0**, **AWS Cognito**, and **MFA**.
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 **Languages:** TypeScript, JavaScript, Python, Java, Bash  
 **Frameworks & Libraries:** React, NestJS, Express, Redux, Material UI  
