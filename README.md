@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akanksha Pawar
+# Hi, I'm Akanksha
 
 I’m a **Full-Stack Developer** with a passion for building scalable web applications, intuitive interfaces, and intelligent systems. I thrive in fast-paced environments—especially startups—where impact and innovation go hand-in-hand.
 
@@ -20,3 +20,5 @@ I’m a **Full-Stack Developer** with a passion for building scalable web applic
 **Databases:** MySQL, PostgreSQL, MongoDB  
 **Cloud & DevOps:** AWS (EC2, Lambda, S3, RDS, Cognito), Docker, Git  
 **Tools:** Postman, Swagger, Figma, Jest
+
+Currently diving deep into C++ and database internals, aiming to build a strong foundation in systems programming for the long term.
